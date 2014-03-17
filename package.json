@@ -1,0 +1,16 @@
+{
+    "name": "2048offline",
+    "description": "Offline version of the 2048 game",
+    "version": "0.1.0",
+    "keywords": ["game", "2048", "offline"],
+    "main": "2048/index.html",
+    "window": {
+        "title": "2048 Offline",
+        "icon": "2048/meta/apple-touch-icon.png",
+        "toolbar": false,
+        "width": 800,
+        "height": 700,
+        "min_width": 800,
+        "min_height": 600
+    }
+}
