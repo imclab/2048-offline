@@ -1,2 +1,4 @@
 *.sw[po]
 *.nw
+node_modules
+webkitbuilds
