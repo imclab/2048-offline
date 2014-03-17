@@ -6,7 +6,7 @@
     "main": "2048/index.html",
     "window": {
         "title": "2048 Offline",
-        "icon": "2048/meta/apple-touch-icon.png",
+        "icon": "icon.png",
         "toolbar": false,
         "width": 800,
         "height": 700,
