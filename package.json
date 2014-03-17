@@ -1,0 +1,8 @@
+{
+  "name": "2048-offline",
+  "description": "Offline version of the game 2048",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-node-webkit-builder": "latest"
+  }
+}
